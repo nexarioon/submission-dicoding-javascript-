@@ -1,18 +1,18 @@
-# Submission Dicoding — JavaScript
+# Dicoding Submissions — JavaScript
 
-Kumpulan submission kelas **Dicoding: Belajar Keterampilan Dasar Pemrograman JavaScript**, disusun per topik dalam folder bernomor.
+A set of submissions for the **Dicoding: JavaScript Fundamentals** class, organised by topic in numbered folders.
 
-| Folder | Topik |
+| Folder | Topic |
 |---|---|
-| `01-writing-comments` | Menulis komentar kode yang baik |
-| `02-code-style` | Gaya penulisan kode (code style) |
-| `03-writing-test` | Unit testing dasar |
-| `optional-04-oop` | Object-Oriented Programming |
-| `optional-05-recursive` | Fungsi rekursif |
-| `optional-06-full-coverage-testing` | Testing sampai code coverage penuh |
-| `optional-07-real-world-scenario` | Studi kasus nyata |
+| `01-writing-comments` | Writing meaningful code comments |
+| `02-code-style` | Code style conventions |
+| `03-writing-test` | Basic unit testing |
+| `optional-04-oop` | Object-oriented programming |
+| `optional-05-recursive` | Recursive functions |
+| `optional-06-full-coverage-testing` | Testing up to full code coverage |
+| `optional-07-real-world-scenario` | Real-world scenario |
 
-Setiap folder berisi `instruksi.md` (soal) dan `index.js` (jawaban). Folder yang punya test juga menyertakan `index.test.js` dan `package.json` sendiri:
+Each folder contains `instruksi.md` (the assignment) and `index.js` (the solution). Folders with tests also ship their own `index.test.js` and `package.json`:
 
 ```bash
 cd 03-writing-test
